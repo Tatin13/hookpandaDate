@@ -36,3 +36,11 @@ width: 100%;
 body{
     margin-bottom: 600px;
 }
+#welcome{
+    color: green;
+    font-weight: bold;
+}
+#lastP{
+    background-color: purple;
+    color: white;
+}
