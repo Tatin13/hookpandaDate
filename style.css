@@ -33,3 +33,6 @@ input{
 #diceImages img{
 width: 100%;
 }
+body{
+    margin-bottom: 600px;
+}
