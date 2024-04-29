@@ -7,7 +7,7 @@ function rollDice(){
      const images = [];
 
      for(let i = 0; i < numOfDice; i++){
-        const value = Math.floor(Math.random() * 215) + 1;
+        const value = Math.floor(Math.random() * 236) + 1;
         values.push(value);
         images.push(`<img src="${value}.jpg" alt="Dice ${value}">`);
 
